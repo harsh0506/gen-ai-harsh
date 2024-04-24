@@ -11,6 +11,8 @@ Exam: The exam will be open-book, emphasizing practical experience and applicati
 
 Outcome: Students will gain practical experience with various Generative AI technologies and create projects tailored to their individual domains.
 
+This practical is structured and created by harsh joshi. Connect with me at [link](https://www.linkedin.com/in/harsh-joshi-ai-engineer/)
+
 1. **Introduction to Generative AI Platforms**
    - Explore platforms like Claude, Chatbots, and Gemini AI.
    - Learn to utilize these platforms for tasks such as resume improvement, study plan creation, and code debugging.
