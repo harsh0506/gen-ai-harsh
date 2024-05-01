@@ -34,7 +34,6 @@ This practical is structured and created by harsh joshi. Connect with me at [lin
 5. **Basic Fine-tuning of BERT for NLP Tasks**
    - Fine-tune a BERT model for tasks like sentiment analysis or Named Entity Recognition (NER).
    - Push the fine-tuned model to Hugging Face Hub.
-   - Code link for refrence : https://github.com/LuluW8071/Text-Sentiment-Analysis/blob/main/Text-Sentiment-Analysis-using-BERT.ipynb
 
 6. **Advanced Fine-tuning Techniques**
    - Explore advanced fine-tuning methods such as Bitsandbytes, PEFT, and QLorA.
@@ -51,4 +50,7 @@ This practical is structured and created by harsh joshi. Connect with me at [lin
 9. **Final Project**
    - Students will work on a final project of their choice (a simple project related to their individual domains).
    - Push the project to the individual student's branch in the GitHub repository.
+
+## Some useful repo 
+[Trelis's code for llm](https://github.com/TrelisResearch/install-guides)
 
